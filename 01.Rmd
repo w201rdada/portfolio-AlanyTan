@@ -1,14 +1,18 @@
-# My first cool idea {#slug-one}
+# AI approach to Relationship crisis {# data driven approach to help people avoid, resolve, deal with relationships crisis, and if can’t be fixed, dissolve their relationship with least disruption} 
 
 #### Keywords {-}
 
-yaba, daba, do
+Relationship crisis, abuse in relationships, separation, divorce, data science in human emotion analysis, relationship coaching, inspirational articles, predictive model of relationship.
 
-## A beginning.
+## increasing relationship crisis in digital age.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+While divorce rate has been steadily dropping in the past couple of decades, the drop was mainly associated with a bigger drop in marriage rate.   However, no marriage does not mean there is no relationship, and less divorce rate does not mean less break ups. 
+It has been industry concensus that (romantic) relationship breakdown is only second to loss of family member (more on this later) in its emotional tramatic effect to the victim(s).  
 
-## A middle.
+Human therapists, coaching can be very expensive and also limited in their experince relevant to the victim (previous cases they've seen/treated). The truamtic impact on the therapists themselves are also limiting the amount of help they are able to offer everyday. 
+The availability of good and relevent guidance is a big challenge in this area, to the point most people going through this rely on their family, if not themselves only. 
+
+## A data science approach to human relationship.
 
 Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
 
@@ -19,6 +23,6 @@ knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 
 Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
 
-## An end.
+## An analysis of our initial results.
 
 90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
