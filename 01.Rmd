@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # AI approach to Relationship crisis {# data driven approach to help people avoid, resolve, deal with relationships crisis, and if can’t be fixed, dissolve their relationship with least disruption} 
 
 #### Keywords {-}
@@ -13,16 +18,23 @@ Human therapists, coaching can be very expensive and also limited in their exper
 The availability of good and relevent guidance is a big challenge in this area, to the point most people going through this rely on their family, if not themselves only. 
 
 ## A data science approach to human relationship.
-
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
-
+The advancement of technology are commonly associated with undesirable shift in social interaction and structure, what often overlooked was the fact that ability to address such challenges are also presented with an opportunity to grow by the technology advancement.
+While AI and data science have the tendency of treating people more "like a denominator", it also gave us the ability to offer help in unprecedented ways. 
 <!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
+```{r machine-learning,echo=FALSE,fig.cap='[relathionship crisis]',fig.align='center',out.width='50%'}
+knitr::include_graphics('https://i.ytimg.com/vi/uFQqL0S73Dg/maxresdefault.jpg')
 ```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+With modern technology, we see 3 areas of services could be practically offered to relationship management.  
+
+First, relationship risk prediction.  While we would not just tell someone "your chance of relationship failure is 79%, we can actually use big data and data science to predict the risk and offer tailored recommendation of services, articles to read, self-education, or guided self-improvement. 
+
+Second, content generation.  Most of the inspirational quote, or poems are very encouraging, however, for people in dark mood, "quantity" is important for them to feel they are not alone.  But privacy concerns also means people in relationship crisis are less likely to have meaningful human thought partners to give them such inspiration or encouragement.  So AI generated content to encourage people to deal with the issues they face is a key value proposition (think about it as a more sophisticated chat bot that always churn out positive encouraging contents)
+
+Third, assisted AI para legal.  When it comes to relationship crisis, legal terms come in to play a big role - knowing the legal hoops ahead of time would significantly affect people's preparation and ability to deal with the fall out.  As AI in paralegal has been tested, it would be a nature extension to develop paralegal in marriage/divorce law to lower the cost of legal hoops for majority of the people involved. 
+
+These areas can leverage relatively tested technology and with big data, could yield value for human augmented emotional health. 
+
 
 ## An analysis of our initial results.
-
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+We have done some market research and focus group study.  We found that relationship management can be a hundred-billion-dollar market globally.   However, lots of existing services are too expansive for some most-in-need demographic (i.e. single mother with children).  The cost analysis of existing services reveals the main cost is the human therapist cost - qualified therapists are rare and they need years of training to be able to provide individual analysis and treatment.  So the need for affordable service would be best satisfied with an AI based approach. 
