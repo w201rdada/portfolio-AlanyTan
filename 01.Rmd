@@ -1,8 +1,9 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
+
 # AI approach to Relationship crisis {# data driven approach to help people avoid, resolve, deal with relationships crisis, and if can’t be fixed, dissolve their relationship with least disruption} 
 
 #### Keywords {-}
@@ -11,11 +12,13 @@ Relationship crisis, abuse in relationships, separation, divorce, data science i
 
 ## increasing relationship crisis in digital age.
 
-While divorce rate has been steadily dropping in the past couple of decades, the drop was mainly associated with a bigger drop in marriage rate.   However, no marriage does not mean there is no relationship, and less divorce rate does not mean less break ups. 
+While divorce rate has been steadily dropping in the past couple of decades, the drop was mainly associated with a bigger drop in marriage rate.   However, no marriage does not mean there is no relationship, and less divorce rate does not mean less break ups. [@bgsu_divorce_nodate]
 It has been industry concensus that (romantic) relationship breakdown is only second to loss of family member (more on this later) in its emotional tramatic effect to the victim(s).  
 
 Human therapists, coaching can be very expensive and also limited in their experince relevant to the victim (previous cases they've seen/treated). The truamtic impact on the therapists themselves are also limiting the amount of help they are able to offer everyday. 
 The availability of good and relevent guidance is a big challenge in this area, to the point most people going through this rely on their family, if not themselves only. 
+
+
 
 ## A data science approach to human relationship.
 The advancement of technology are commonly associated with undesirable shift in social interaction and structure, what often overlooked was the fact that ability to address such challenges are also presented with an opportunity to grow by the technology advancement.
