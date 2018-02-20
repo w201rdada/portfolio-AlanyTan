@@ -6,15 +6,15 @@ Home Security Monitoring, Analog monitoring, two way voice communication, sensor
 
 ## The home security monitoring bussiness is long over due for a disruption
 
-Lots of people have or had Home Security motioning service(s).  It's an industry that should have had an overhaul a long time ago. 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[Grandpa's home monitoring]',fig.align='center',out.width='50%'}
-knitr::include_graphics('http://greentechadvocates.com/wp-content/uploads/2011/10/Verizon-Home-Monitoring-and-Control-Kit.png')
-```
+Lots of people have or had Home Security motioning service(s).  However, it's an industry that has generated more frustrations than satisfactions.  One user summarized it well "why do I pay hundredreds of dollars a year for something to listening on my private life and only works if I didnt' forget to turn it on?"
 
 While most of such monitoring services had sensors installed at customer's homes, majority of them are still rely on analog human based sound monitoring as its core service offering.  While this might reduce false alarms, the cost (each human can only monitor certain number of homes, hence the cost can't get lower than certain point), privacy concerns (I have had friends who worked in this industry, and boy, does he have stories to tell), and the limited functionality is unbelievably medieval. 
 
 Some gadget vendors started to sell some "digital" monitoring tools, but instead of using data science to reduce human intervention, these gadgets tend to "let you monitor your own home".
+<!-- ...or include images directly from the web. Cite your sources! -->
+```{r machine-learning,echo=FALSE,fig.cap='[Grandpa's home monitoring]',fig.align='center',out.width='50%'}
+knitr::include_graphics('http://greentechadvocates.com/wp-content/uploads/2011/10/Verizon-Home-Monitoring-and-Control-Kit.png')
+```
 
 
 ## How can Data Science reinvent this industry
