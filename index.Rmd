@@ -42,8 +42,9 @@ knitr::include_url("https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea {-}
 
-Leveraging AI to help human relationship crisis and emotional wellbeing (No Facebook research involved).
-AI has been mainly portraited as human existatial threat.  However, it also has great potential for helping people, especially for those situations where "other people" are less likely to offer help. 
+
+AI Approach to relationship crisis. 
+Using data to help people deal with most intimate emotional crisis.
 
 We know human relationship go through crisis.  While "relationship consuling" exists, usually people would not explicitly seek such help, until they realize the seriousness of the crisis, which often means, it's already too late. 
 
@@ -66,6 +67,5 @@ And the system will also get better by getting more data, so the quality of serv
 ## About the author {-}
 
 Alan Tan works for SAP Americas as a Sr. Consulting Delivery Director in charge of delivering Machine Learning, IOT and Blockchain implementation services.  A life time enthusiast of technology, Alan has been helping customers and industry to adjust to modern business model leveraging emerging technologies. 
-
 
 *Updated: `r Sys.Date()`*
