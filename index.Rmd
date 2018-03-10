@@ -17,7 +17,7 @@ readLines('https://www.zotero.org/api/users/4669411/collections/I5IRNRX3/items/t
 ```
 
 
-# Welcome! {-}
+# "Hello (MIDS) World"  {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
@@ -42,20 +42,30 @@ knitr::include_url("https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea {-}
 
+
 AI Approach to relationship crisis. 
 Using data to help people deal with most intimate emotional crisis.
 
+We know human relationship go through crisis.  While "relationship consuling" exists, usually people would not explicitly seek such help, until they realize the seriousness of the crisis, which often means, it's already too late. 
+
+For more casual "help", like "talking to my confidant" is prone to echo chamber effect, instead of getting insights that one might omited, many time, those unprofessional families and friends often offer either echo chamber feedback, or share their own life expereince which rarely dealt same stakeholders and situations. 
+
+What we propose is using machine learning aproach to analyze user's communication patterns (i.e. who they talk to most often, the sentiment in their communciations with different people, type of articles they consume, etc), with such data, and combined with "target" information (if they go through divorce, for example, which we collect by the means of offering marriage conseuling services), we will be able to predict relationship issues, even before they break out into crisis.  While we might not be able to prevent all of the crisis from getting worth, the ability to predict such crisis usually have an out of propotion benefit to less priviledged members of societies. 
+
 ### Abstract of my second cool idea {-}
 
-Reimagine home security monitoring industry with data science.
-  
-### Abstract of my third cool idea {-}
+For the home (or office) security monitoring industry, there has been a long over due AI-revolution.  If one take a good look into this industry, they would notice it nearly begged for AI for many years. 
+Not only most of these home monitoring systems install sensors, of which many are digital already, but also the recognition of break-in, fire, flood, etc, is pretty much a pattern recognition. 
 
-not yet...
-Stay tuned....
+So I propose apply Data Science and turn the home monitoring industry upside down.  All sensor data will be considered as input features, and events (break-in, fire, etc) are targets.  So the prediction model will be pretty classic machine learning problem.  The advanced portion of this plan would include additional data, i.e. audio feeds and/or video/infrared feeds.  Though such data, we can leverage data science to recognize patterns even before events happen.  The aditional social benefit is for example a senior who lives alone might fall and becomes unable to call for help. Such audio feed monitoring will be albe to pick up such events.  
+
+This will not only provide more people independence, but more importantly offer people better privacy (if you worked in home monitoirng industry, you would know it's not fun to listen in on people's night talk). 
+And the system will also get better by getting more data, so the quality of service will improve as number of users grow, and it will significantly lower cost, so make such service more affordable to particularly lower income/high crime neiborhood. 
+
+
 
 ## About the author {-}
 
-Spring 2018 MIDS student. 
+Alan Tan works for SAP Americas as a Sr. Consulting Delivery Director in charge of delivering Machine Learning, IOT and Blockchain implementation services.  A life time enthusiast of technology, Alan has been helping customers and industry to adjust to modern business model leveraging emerging technologies. 
 
 *Updated: `r Sys.Date()`*
