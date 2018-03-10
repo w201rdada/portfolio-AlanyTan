@@ -17,7 +17,7 @@ readLines('https://www.zotero.org/api/users/4669411/collections/I5IRNRX3/items/t
 ```
 
 
-# Welcome! {-}
+# "Hello (MIDS) World"  {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
@@ -42,18 +42,30 @@ knitr::include_url("https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea {-}
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+Leveraging AI to help human relationship crisis and emotional wellbeing (No Facebook research involved).
+AI has been mainly portraited as human existatial threat.  However, it also has great potential for helping people, especially for those situations where "other people" are less likely to offer help. 
+
+We know human relationship go through crisis.  While "relationship consuling" exists, usually people would not explicitly seek such help, until they realize the seriousness of the crisis, which often means, it's already too late. 
+
+For more casual "help", like "talking to my confidant" is prone to echo chamber effect, instead of getting insights that one might omited, many time, those unprofessional families and friends often offer either echo chamber feedback, or share their own life expereince which rarely dealt same stakeholders and situations. 
+
+What we propose is using machine learning aproach to analyze user's communication patterns (i.e. who they talk to most often, the sentiment in their communciations with different people, type of articles they consume, etc), with such data, and combined with "target" information (if they go through divorce, for example, which we collect by the means of offering marriage conseuling services), we will be able to predict relationship issues, even before they break out into crisis.  While we might not be able to prevent all of the crisis from getting worth, the ability to predict such crisis usually have an out of propotion benefit to less priviledged members of societies. 
 
 ### Abstract of my second cool idea {-}
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
-  
-### Abstract of my third cool idea {-}
+For the home (or office) security monitoring industry, there has been a long over due AI-revolution.  If one take a good look into this industry, they would notice it nearly begged for AI for many years. 
+Not only most of these home monitoring systems install sensors, of which many are digital already, but also the recognition of break-in, fire, flood, etc, is pretty much a pattern recognition. 
 
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
+So I propose apply Data Science and turn the home monitoring industry upside down.  All sensor data will be considered as input features, and events (break-in, fire, etc) are targets.  So the prediction model will be pretty classic machine learning problem.  The advanced portion of this plan would include additional data, i.e. audio feeds and/or video/infrared feeds.  Though such data, we can leverage data science to recognize patterns even before events happen.  The aditional social benefit is for example a senior who lives alone might fall and becomes unable to call for help. Such audio feed monitoring will be albe to pick up such events.  
+
+This will not only provide more people independence, but more importantly offer people better privacy (if you worked in home monitoirng industry, you would know it's not fun to listen in on people's night talk). 
+And the system will also get better by getting more data, so the quality of service will improve as number of users grow, and it will significantly lower cost, so make such service more affordable to particularly lower income/high crime neiborhood. 
+
+
 
 ## About the author {-}
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+Alan Tan works for SAP Americas as a Sr. Consulting Delivery Director in charge of delivering Machine Learning, IOT and Blockchain implementation services.  A life time enthusiast of technology, Alan has been helping customers and industry to adjust to modern business model leveraging emerging technologies. 
+
 
 *Updated: `r Sys.Date()`*
