@@ -20,18 +20,10 @@ readLines('https://www.zotero.org/api/users/4669411/collections/I5IRNRX3/items/t
 # "Hello (MIDS) World"  {-}
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
+```{r hello-world,echo=FALSE,fig.cap='Hello World! by Philippe Put',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/helloworld.jpg')
 ```
 
-Test citation[meng_resilience_2018]. 
-https://www.zotero.org/api/users/4669411/items/top?limit=25&format=bibtex&key=3op5rlAnANkSIpIZVN1qsD9P&v=1
-Does it show citation? 
-@misc{noauthor_behavioral_nodate,
-	title = {Behavioral algorithm predicts {RG}3 will divorce wife before 2017},
-	url = {http://bigdata-madesimple.com/behavioral-algorithm-predicts-rg3-will-divorce-wife-before-2017/},
-	urldate = {2018-01-30}
-}
 
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
@@ -46,21 +38,23 @@ knitr::include_url("https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 AI Approach to relationship crisis. 
 Using data to help people deal with most intimate emotional crisis.
 
-We know human relationship go through crisis.  While "relationship consuling" exists, usually people would not explicitly seek such help, until they realize the seriousness of the crisis, which often means, it's already too late. 
+We know human relationship go through ups and downs and crisis.  While "relationship counselling" exists, usually people would not explicitly seek such help, until they realize the seriousness of the crisis, which often means, it's already too late. 
 
-For more casual "help", like "talking to my confidant" is prone to echo chamber effect, instead of getting insights that one might omited, many time, those unprofessional families and friends often offer either echo chamber feedback, or share their own life expereince which rarely dealt same stakeholders and situations. 
+Casual "help", like "talking to my confidant" are prone to echo chamber effect, instead of getting insights that one might omitted, many time, those unprofessional families and friends often offer either echo chamber feedback, or share their own life experience which rarely dealt same stakeholders and situations. 
 
-What we propose is using machine learning aproach to analyze user's communication patterns (i.e. who they talk to most often, the sentiment in their communciations with different people, type of articles they consume, etc), with such data, and combined with "target" information (if they go through divorce, for example, which we collect by the means of offering marriage conseuling services), we will be able to predict relationship issues, even before they break out into crisis.  While we might not be able to prevent all of the crisis from getting worth, the ability to predict such crisis usually have an out of propotion benefit to less priviledged members of societies. 
+What we propose is using machine learning approach to analyze user's communication patterns (i.e. who they talk to most often, the sentiment in their communications with different people, type of articles they consume, etc), with such data, and combined with "target" information (if they go through divorce, for example, which we collect by the means of offering marriage counseling services), we will be able to predict relationship issues, even before they break out into crisis.  While we might not be able to prevent all of the crisis from getting worth, the ability to predict such crisis usually have an out of proportion benefit to less privileged members of societies. 
+
+Next, AI therapists will change the industry in two ways, first, thanks to its tireless ability to engage continuously, "treatment session" concepts will be replaced with "treatment" stream, it will be a 24*7 always available hotline (or hot chat) therapy stream.  Secondly, it will build on top of previous studies in both AI and (more importantly) human's response to AI interaction to provide help to people in particularly need - those people who might feel most lonely during a crisis where their previous closest person is their biggest source of agony.
 
 ### Abstract of my second cool idea {-}
 
 For the home (or office) security monitoring industry, there has been a long over due AI-revolution.  If one take a good look into this industry, they would notice it nearly begged for AI for many years. 
 Not only most of these home monitoring systems install sensors, of which many are digital already, but also the recognition of break-in, fire, flood, etc, is pretty much a pattern recognition. 
 
-So I propose apply Data Science and turn the home monitoring industry upside down.  All sensor data will be considered as input features, and events (break-in, fire, etc) are targets.  So the prediction model will be pretty classic machine learning problem.  The advanced portion of this plan would include additional data, i.e. audio feeds and/or video/infrared feeds.  Though such data, we can leverage data science to recognize patterns even before events happen.  The aditional social benefit is for example a senior who lives alone might fall and becomes unable to call for help. Such audio feed monitoring will be albe to pick up such events.  
+So I propose apply Data Science and turn the home monitoring industry upside down.  All sensor data will be considered as input features, and events (break-in, fire, etc) are targets.  So the prediction model will be pretty classic machine learning problem.  The advanced portion of this plan would include additional data, i.e. audio feeds and/or video/infrared feeds.  Though such data, we can leverage data science to recognize patterns even before events happen.  The additional social benefit is for example a senior who lives alone might fall and becomes unable to call for help. Such audio feed monitoring will be able to pick up such events.  
 
-This will not only provide more people independence, but more importantly offer people better privacy (if you worked in home monitoirng industry, you would know it's not fun to listen in on people's night talk). 
-And the system will also get better by getting more data, so the quality of service will improve as number of users grow, and it will significantly lower cost, so make such service more affordable to particularly lower income/high crime neiborhood. 
+This will not only provide more people independence, but more importantly offer people better privacy (if you worked in home monitoring industry, you would know it's not fun to listen in on people's night talk). 
+And the system will also get better by getting more data, so the quality of service will improve as number of users grow, and it will significantly lower cost, so make such service more affordable to particularly lower income/high crime neighborhood. 
 
 
 
