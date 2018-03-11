@@ -1,4 +1,4 @@
-# A Data based approach to digitally transform the home security monitoirng business {#redefining-home-security}
+# A Data based approach to digitally transform the home security monitoring business {#redefining-home-security}
 
 #### Keywords {-}
 Home Security Monitoring, Analog monitoring, two way voice communication, sensors, always-on sound pattern recognition, automatic alarm and dispatch
