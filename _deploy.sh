@@ -9,7 +9,7 @@ git checkout master
 
 cd ~/Documents/portfolio-AlanyTan/ \
 && rm -rf docs/ \
-&& mv -u -T _book/ docs/
+&& mv _book/ docs/
 
 # assuming you've already built it, replace old docs with new _books build
 echo "User-agent: *
